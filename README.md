@@ -2,7 +2,7 @@
 Oncogenic Signaling Pathway-Related Long Non-coding RNAs for Predicting Prognosis and Immunotherapy Response in Breast Cancer
 ![OncoSig\_Flowchart](Flowchart.png)
 
-# Download TCGA RNA-seq data and clinical data
+# Download TCGA RNA-seq data and clinical data for analyzing.
 ``` r
 library(dplyr)
 library(Seurat)
