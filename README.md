@@ -1,2 +1,2 @@
 # OncoSig
-Oncogenic Signaling Pathway-related lncRNA for predicting prognosis and immunotherapy response in breast cancer
+Oncogenic Signaling Pathway-Related Long Non-coding RNAs for Predicting Prognosis and Immunotherapy Response in Breast Cancer
