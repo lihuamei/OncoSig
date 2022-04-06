@@ -13,7 +13,7 @@ library(SummarizedExperiment)
 setwd('../0.data')
 
 #----------------------------------------------------------------
-# Download Pan cancer data from TCGA database
+# Prepared Pan cancer data from TCGA database and structed as Seurat object.
 
 proj.ids <- getGDCprojects()$id %>% grep('TCGA', .,  v = T)
 
