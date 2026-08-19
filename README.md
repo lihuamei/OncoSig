@@ -45,3 +45,5 @@ for (proj in proj.ids) {
 print('Okay!')
 
 ```
+# Citation
+Li H, Liu H, Hao Q, Liu X, Yao Y and Cao M (2022) Oncogenic signaling pathway-related long non-coding RNAs for predicting prognosis and immunotherapy response in breast cancer. Front. Immunol. 13:891175. doi: 10.3389/fimmu.2022.891175.
